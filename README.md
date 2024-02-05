@@ -3,9 +3,9 @@
 
 Submitted by: **Nene Awa Kobele Keita**
 
-**Name of your app** is an app that... [TODO] 
+**Background Color Generator ** is an app that changes the background of an application when you the "Background Button"
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -24,6 +24,20 @@ The following **required** functionality is completed:
   </div>
 
 ## App Brainstorming (Step 4)
+Instagram
+- We can edit messages
+- Change your profile pictures
+- We can unsend messages
+Snapchat
+- We know when others have read your messages
+- can send streaks to others
+- can change your bitmoji
+Spotify
+- Can create playlist
+- Can create shared playlist with your friends
+- Spotify creates playlist for you based on what listen the most
+
+If I could improve the Spotify App I would create a feature that would allow you to see your playing history, even if you changed your playlist you could still see your unscary played history, because currently on sporty you are not allowed to see what you played before unless you click the previous button, and that does not always work because when you change playlist it resets your previous button and only shows the previous from the song played from this playlist. so I would create a feature that would allow you to see every song you played before without having to click the previous button and play the song before. Next, I would also create a feature that allows user to customer their main page whether it's changing the background color or be able to add images, or being able to change the layouts of their page and select with shortcuts they want on their page and how many shortcuts you want, whether its one that goes directly to one of your specific playlists wihtotu having to search for it or adding one for you favorite artist. 
 
 ## Notes
 
