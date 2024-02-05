@@ -41,11 +41,10 @@ If I could improve the Spotify App I would create a feature that would allow you
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+I havent faced many major changes challenges, just small complication such as finding how I could open the storyboard file. However I was able to use the Slack support channel to guide me. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 nene Keita
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
