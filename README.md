@@ -28,10 +28,12 @@ Instagram
 - We can edit messages
 - Change your profile pictures
 - We can unsend messages
+
 Snapchat
 - We know when others have read your messages
 - can send streaks to others
 - can change your bitmoji
+
 Spotify
 - Can create playlist
 - Can create shared playlist with your friends
